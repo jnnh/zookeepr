@@ -126,6 +126,29 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "frank",
+      "species": "dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "frank",
+      "species": "cat",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
